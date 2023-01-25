@@ -1,0 +1,1 @@
+wordsare = ["banane", "ecran", "telephone", "concombre", "fenetre", "lit", "bouteille", "chaise", "bureau", "console", "laplateforme", "terrasse", "cimetiere", "autoroute"]
